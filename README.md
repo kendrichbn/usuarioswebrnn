@@ -24,7 +24,7 @@ contrasena: B7#rJ$twwdJg@3KML3C8tp1r
 usuarior: scareletg@gmail.com
 contrasena: W0aF#I&1ze3mVNMGBMFJCHO9
 
-usuarior: guilléncomas@gmail.com
+usuarior: guillencomas@gmail.com
 contrasena: J(eS$YA(96nnn74hzMZ6QiMh
 
 usuarior: fernandarnn21@gmail.com
